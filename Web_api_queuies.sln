@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_api_queuies", "Web_api_queuies\Web_api_queuies.csproj", "{D892D1FB-EAE6-435F-A860-87272B8FA5C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D892D1FB-EAE6-435F-A860-87272B8FA5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D892D1FB-EAE6-435F-A860-87272B8FA5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D892D1FB-EAE6-435F-A860-87272B8FA5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D892D1FB-EAE6-435F-A860-87272B8FA5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8056A9AA-9FD8-46EA-A3E0-84F2F9FFD181}
+	EndGlobalSection
+EndGlobal
